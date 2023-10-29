@@ -1,0 +1,11 @@
+QPushButton#svg
+{
+    background-image: url(:/sentiment_satisfied_FILL0_wght400_GRAD0_opsz24.svg);
+    background-repeat: no-repeat;
+}
+
+QPushButton#png
+{
+    background-image: url(:/sentiment_satisfied_FILL0_wght400_GRAD0_opsz24.png);
+    background-repeat: no-repeat;
+}
